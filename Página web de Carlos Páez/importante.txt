@@ -1,0 +1,3 @@
+El archivo que se abrira en google es el index, los demas son enlaces proporcionados en la visualizacion de index.
+Nn el navegador de android por alguna razon no cragan las imagenes, por lo que es mejor abrirlo en PC donde 
+si se visualizan

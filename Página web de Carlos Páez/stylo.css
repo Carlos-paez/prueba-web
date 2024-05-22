@@ -1,0 +1,27 @@
+body{
+	margin: o;
+	background-image: url(OIP\ \(1\).jfif);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	text-align: center;
+	color:black;
+}
+header{
+	background-color: black;
+	color: white;
+	padding: 3rem 2rem;
+}
+header{
+	background-color:chocolate ;
+	color:white;
+	padding: 3rem 2rem;
+}
+header h1{
+	font-size: 4rem;
+}
+.contacto{
+	background-color: aqua;
+	padding: 2rem;
+}
